@@ -4,7 +4,8 @@
 *.fls
 *.log
 *.out
-letter.pdf
-letter.tex
+*.bcf
+main.pdf
+main.tex
 *.synctex.gz
 .*.swp
