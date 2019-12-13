@@ -4,6 +4,7 @@
 *.fls
 *.log
 *.out
-template.pdf
+letter.pdf
+letter.tex
 *.synctex.gz
 .*.swp
